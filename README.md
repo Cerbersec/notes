@@ -18,5 +18,9 @@ Collection of resources and articles I need to look at. Mostly regarding malware
 
 ## Exploit Dev
 * [https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
+* [https://github.com/ChoiSG/UuidShellcodeExec](https://github.com/ChoiSG/UuidShellcodeExec)
 
 ## Malware Analysis
+
+## Misc
+* [https://github.blog/changelog/2021-04-14-new-github-themes-for-vs-code/](https://github.blog/changelog/2021-04-14-new-github-themes-for-vs-code/)
