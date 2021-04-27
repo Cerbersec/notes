@@ -24,6 +24,7 @@ Collection of resources and articles I need to look at. Mostly regarding malware
 
 ## Misc
 * [https://github.blog/changelog/2021-04-14-new-github-themes-for-vs-code/](https://github.blog/changelog/2021-04-14-new-github-themes-for-vs-code/)
+* [https://github.com/3lp4tr0n/BeaconHunter](https://github.com/3lp4tr0n/BeaconHunter)
 
 ## WIP
 * [https://github.com/vxunderground/VXUG-Papers/blob/main/Hells%20Gate/HellsGate.pdf](https://github.com/vxunderground/VXUG-Papers/blob/main/Hells%20Gate/HellsGate.pdf)
