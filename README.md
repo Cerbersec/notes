@@ -38,3 +38,6 @@ Collection of resources and articles I need to look at. Mostly regarding malware
 * [https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf](https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf)
 * [https://www.ired.team/offensive-security/code-injection-process-injection](https://www.ired.team/offensive-security/code-injection-process-injection)
 * [https://sevrosecurity.com/2020/04/08/process-injection-part-1-createremotethread/](https://sevrosecurity.com/2020/04/08/process-injection-part-1-createremotethread/)
+* [https://connormcgarr.github.io/thread-hijacking/](https://connormcgarr.github.io/thread-hijacking/)
+* [https://github.com/connormcgarr/cThreadHijack](https://github.com/connormcgarr/cThreadHijack)
+* [https://github.com/ajpc500/BOFs/blob/main/SyscallsInject/entry.c](https://github.com/ajpc500/BOFs/blob/main/SyscallsInject/entry.c)
