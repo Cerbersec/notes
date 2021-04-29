@@ -41,3 +41,4 @@ Collection of resources and articles I need to look at. Mostly regarding malware
 * [https://connormcgarr.github.io/thread-hijacking/](https://connormcgarr.github.io/thread-hijacking/)
 * [https://github.com/connormcgarr/cThreadHijack](https://github.com/connormcgarr/cThreadHijack)
 * [https://github.com/ajpc500/BOFs/blob/main/SyscallsInject/entry.c](https://github.com/ajpc500/BOFs/blob/main/SyscallsInject/entry.c)
+* [https://github.com/Microwave89/createuserprocess/](https://github.com/Microwave89/createuserprocess/)
