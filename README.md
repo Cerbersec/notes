@@ -42,3 +42,12 @@ Collection of resources and articles I need to look at. Mostly regarding malware
 * [https://github.com/connormcgarr/cThreadHijack](https://github.com/connormcgarr/cThreadHijack)
 * [https://github.com/ajpc500/BOFs/blob/main/SyscallsInject/entry.c](https://github.com/ajpc500/BOFs/blob/main/SyscallsInject/entry.c)
 * [https://github.com/Microwave89/createuserprocess/](https://github.com/Microwave89/createuserprocess/)
+* [https://movaxbx.ru/2018/10/31/interesting-technique-to-inject-malicious-code-into-svchost-exe/](https://movaxbx.ru/2018/10/31/interesting-technique-to-inject-malicious-code-into-svchost-exe/)
+* [https://blog.redbluepurple.io/offensive-research/bypassing-injection-detection](https://blog.redbluepurple.io/offensive-research/bypassing-injection-detection)
+* [https://www.netspi.com/blog/technical/adversary-simulation/srdi-shellcode-reflective-dll-injection/](https://www.netspi.com/blog/technical/adversary-simulation/srdi-shellcode-reflective-dll-injection/)
+* [https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
+* [https://modexp.wordpress.com/2020/04/08/red-teams-etw/](https://modexp.wordpress.com/2020/04/08/red-teams-etw/)
+* [https://public.cnotools.studio/bring-your-own-vulnerable-kernel-driver-byovkd/exploits/data-only-attack-neutralizing-etwti-provider](https://public.cnotools.studio/bring-your-own-vulnerable-kernel-driver-byovkd/exploits/data-only-attack-neutralizing-etwti-provider)
+
+## Sources
+* [https://stackoverflow.com/questions/45134220/how-to-convert-a-pointer-of-type-void-to-void](https://stackoverflow.com/questions/45134220/how-to-convert-a-pointer-of-type-void-to-void)
