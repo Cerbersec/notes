@@ -42,6 +42,10 @@ Collection of resources and articles I need to look at. Mostly regarding malware
 * [https://github.com/am0nsec/wspe/blob/master/AMSI/amsi_module_patch.c#L220](https://github.com/am0nsec/wspe/blob/master/AMSI/amsi_module_patch.c#L220)
 * [https://www.ired.team/offensive-security/code-injection-process-injection/addressofentrypoint-code-injection-without-virtualallocex-rwx](https://www.ired.team/offensive-security/code-injection-process-injection/addressofentrypoint-code-injection-without-virtualallocex-rwx)
 * [https://github.com/hasherezade/libpeconv/tree/master/run_pe](https://github.com/hasherezade/libpeconv/tree/master/run_pe)
+* [https://www.cyberark.com/resources/threat-research-blog/masking-malicious-memory-artifacts-part-i-phantom-dll-hollowing-2](https://www.cyberark.com/resources/threat-research-blog/masking-malicious-memory-artifacts-part-i-phantom-dll-hollowing-2)
+* [https://www.forrest-orr.net/post/masking-malicious-memory-artifacts-part-iii-bypassing-defensive-scanners](https://www.forrest-orr.net/post/masking-malicious-memory-artifacts-part-iii-bypassing-defensive-scanners)
+* [https://github.com/forrest-orr/phantom-dll-hollower-poc/blob/master/PhantomDllHollower/PhantomDllHollower.cpp](https://github.com/forrest-orr/phantom-dll-hollower-poc/blob/master/PhantomDllHollower/PhantomDllHollower.cpp)
+* [https://github.com/BreakingMalwareResearch/atom-bombing/blob/master/AtomBombing/main.cpp](https://github.com/BreakingMalwareResearch/atom-bombing/blob/master/AtomBombing/main.cpp)
 
 ## Exploit Dev
 * [https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
