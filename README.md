@@ -52,6 +52,8 @@ Collection of resources and articles I need to look at. Mostly regarding malware
 * [https://medium.com/falconforce/bof2shellcode-a-tutorial-converting-a-stand-alone-bof-loader-into-shellcode-6369aa518548](https://medium.com/falconforce/bof2shellcode-a-tutorial-converting-a-stand-alone-bof-loader-into-shellcode-6369aa518548)
 * [https://medium.com/@omribaso/this-is-how-i-bypassed-almost-every-edr-6e9792cf6c44](https://medium.com/@omribaso/this-is-how-i-bypassed-almost-every-edr-6e9792cf6c44)
 * [https://www.blackhat.com/docs/eu-14/materials/eu-14-Andrivet-C-plus-plus11-Metaprogramming-Applied-To-software-Obfuscation-wp.pdf](https://www.blackhat.com/docs/eu-14/materials/eu-14-Andrivet-C-plus-plus11-Metaprogramming-Applied-To-software-Obfuscation-wp.pdf)
+* [https://rp.os3.nl/2020-2021/p68/report.pdf](https://rp.os3.nl/2020-2021/p68/report.pdf)
+* [https://lospi.net/security/assembly/c/cpp/developing/software/2017/03/04/gargoyle-memory-analysis-evasion.html](https://lospi.net/security/assembly/c/cpp/developing/software/2017/03/04/gargoyle-memory-analysis-evasion.html)
 
 ## Exploit Dev
 * [https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
@@ -129,5 +131,6 @@ Collection of resources and articles I need to look at. Mostly regarding malware
 * [https://github.com/NotMedic/NetNTLMtoSilverTicket](https://github.com/NotMedic/NetNTLMtoSilverTicket)
 * [https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4](https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4)
 
-## Malware Samples / Source code
-* [[MALWARE] hxxps://anonfiles.com/hcJ4afK8o6/C-Lowlevel-Ldr_2_zip [PW: exploit.in]](hxxps://anonfiles.com/hcJ4afK8o6/C-Lowlevel-Ldr_2_zip)
+## VXUG papers
+* [Windows papers](https://www.vx-underground.org/windows.html)
+* [AV tech papers](https://www.vx-underground.org/av.html)
